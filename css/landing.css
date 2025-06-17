@@ -1,0 +1,20 @@
+ul {
+    text-align: center;
+    text-decoration: none;
+}
+
+li {
+    display: inline-block;
+    padding: 60px 60px;
+    border-color: #7b7457;
+}
+
+a:link {
+    text-decoration: none;
+    color: #854627;
+}
+
+a:visited {
+    color: #854627;
+}
+

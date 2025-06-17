@@ -1,0 +1,38 @@
+img {
+    display: block;
+    padding: 20px;
+    margin: auto;
+    border-radius: 5%;
+    margin-top: -50px;
+}
+
+p {
+    display: block;
+    margin: auto;
+    padding: 20px 150px 20px;
+}
+
+h2, h3 {
+    text-align: center;
+    margin: 25px;
+    color: #46644e;
+}
+
+ul {
+    text-align: center;
+    line-height: 1.5em;
+}
+
+ol {
+    display: table;
+    list-style-position: inside;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 50px 10px;
+}
+
+a:link {
+    text-decoration: none;
+    margin-left: 150px;
+    padding-bottom: 40px;
+}
